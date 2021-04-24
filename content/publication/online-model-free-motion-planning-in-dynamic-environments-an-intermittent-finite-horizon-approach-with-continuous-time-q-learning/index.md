@@ -7,9 +7,9 @@ authors:
   - George P. Kontoudis
   - Zirui Xu
   - Kyriakos G. Vamvoudakis
-doi: https://ieeexplore.ieee.org/document/9148047
+doi: ""
 publication: Proc. American Control Conference, pp. 3873-3878, Denver, CO, 2020
-publication_short: ACC
+publication_short: ""
 draft: false
 featured: false
 image:
