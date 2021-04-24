@@ -72,4 +72,4 @@ I am an incoming Ph.D student in {{< staticref "https://aero.engin.umich.edu/" "
 
 My research interests lie in algorithmic robotics, including control theory, combinatorial optimization, and reinforcement learning with applications in robotic decision-making and motion planning.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
