@@ -28,7 +28,7 @@ education:
   courses:
   - course: Ph.D. in Aerospace Engineering
     institution: University of Michigan
-    year: 2021--
+    year: 2021-Present
   - course: M.S. in Electrical and Computer Engineering
     institution: Georgia Institute of Technology
     year: 2020
@@ -68,8 +68,8 @@ email: ""
 highlight_name: false
 ---
 
-I am an incoming Ph.D student in Aerospace Engineering at the University of Michigan advised by Vasileios Tzoumas.
+I am an incoming Ph.D student in {{< staticref "https://aero.engin.umich.edu/" "newtab" >}}Aerospace Engineering{{< /staticref >}} at the University of Michigan advised by {{< staticref "https://vasileiostzoumas.com/" "newtab" >}}Vasileios Tzoumas{{< /staticref >}}.
 
 My research interests lie in algorithmic robotics, including control theory, combinatorial optimization, and reinforcement learning with applications in robotic decision-making and motion planning.
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
