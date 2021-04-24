@@ -33,7 +33,7 @@ education:
     institution: Georgia Institute of Technology
     year: 2020
   - course: B.Eng. in Automation
-    institution: Northeastern University
+    institution: Northeastern University (China)
     year: 2018
 
 # Social/Academic Networking
