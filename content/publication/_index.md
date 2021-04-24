@@ -10,7 +10,7 @@ cms_exclude: true
 view: 4
 
 # Optional header image (relative to `static/media/` folder).
-header:
+header: Zirui Xu, George P. Kontoudis, and Kyriakos G. Vamvoudakis, “Online and Robust Intermittent Motion Planning in Dynamic and Changing Environment”, under review, 2020.
   caption: ""
   image: ""
 ---
