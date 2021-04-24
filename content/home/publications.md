@@ -7,10 +7,10 @@ widget: pages
 headless: true
 
 # Order that this section appears on the page.
-weight: 90
+weight: 50
 
 title: Publications
-subtitle: 'Journal Papers'
+subtitle: ''
 
 content:
   # Page type to display. E.g. post, talk, publication...
