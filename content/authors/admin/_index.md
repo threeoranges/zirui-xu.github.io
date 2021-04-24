@@ -44,8 +44,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:ziruixu@umich.edu'
-- icon: ai-google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=hsyaj90AAAAJ&hl=en
 - icon: github
   icon_pack: fab
